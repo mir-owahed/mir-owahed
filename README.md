@@ -1,4 +1,4 @@
-## 🔗 Join our community 👇
+## 🔗 Connect with me: 👇
 
 
 <a href="https://www.youtube.com/channel/UCE0wN4DnpNaAQ7duTMpHJ5Q"><img src="https://www.freeiconspng.com/thumbs/youtube-icon/video-youtube-icon--14.png" height="60px"></img></a>
