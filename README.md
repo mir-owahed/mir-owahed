@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/mir-owahed-ali-8786a8153/"><img src="https://img.icons8.com/fluency/2x/linkedin.png" height="60px"></img></a>
 
 
-### Summary
+### About
 I am passionate about upskilling in DevOps and Cloud technologies, with hands-on experience across a range of tools and methodologies including CI/CD, Infrastructure as Code, and Kubernetes. My projects demonstrate practical applications of these skills to streamline deployment pipelines, secure cloud environments, and manage complex infrastructures.
 
 ---
