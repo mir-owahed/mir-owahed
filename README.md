@@ -23,7 +23,7 @@ I am passionate about upskilling in DevOps and Cloud technologies, with hands-on
   - **[GitHub Repo](https://github.com/mir-owahed/DevOps-tutorial/blob/Main/gitlab-cicd-learn/GitLab-CI-project.md)**
 
 - **Portfolio/Documentation Website with Docusaurus & GitHub Pages**  
-  Built a static site using Docusaurus and GitHub Pages, with automated deployment via GitHub Actions.
+  Built a personal website using Docusaurus and GitHub Pages, with automated deployment via GitHub Actions.
   - **[GitHub Repo](https://github.com/mir-owahed/DevOps-tutorial/blob/Main/website-learn/create-deploy-static-website.md)**
 
 - **Secure Kubernetes Cluster on AWS EKS**  
