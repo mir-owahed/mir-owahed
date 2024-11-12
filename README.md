@@ -50,6 +50,6 @@ I am passionate about upskilling in DevOps and Cloud technologies, with hands-on
 ---
 
 Feel free to explore my repositories, and let’s connect for collaboration or insights into DevOps and Cloud Engineering!
-```
+
 **DevOps and Cloud tutorials for Absolute Beginners**  
    GitHub Repository: [https://github.com/mir-owahed/DevOps-tutorial](https://github.com/mir-owahed/DevOps-tutorial)
