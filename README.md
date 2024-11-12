@@ -16,7 +16,7 @@ I am passionate about upskilling in DevOps and Cloud technologies, with hands-on
 
 ---
 
-### 🚀 Projects
+### 🚀 [Projects](https://github.com/mir-owahed/projects)
 
 - **End-to-End GitLab CI Pipeline Implementation**  
   A comprehensive CI/CD pipeline implementation with GitLab, showcasing automated testing, building, and deployment.
