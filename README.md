@@ -24,7 +24,7 @@ I am passionate about upskilling in DevOps and Cloud technologies, with hands-on
 
 - **GitOps ArgoCD Implementation: Automate Infrastructure Creation with Terraform & GitHub Actions, and Application Deployment on EKS Cluster**  
   This guide walks through the process of automating infrastructure creation on EKS with Terraform, GitHub Actions, and deploying applications using ArgoCD.
-  - **[GitHub Repo](https://github.com/mir-owahed/DevOps-tutorial/blob/Main/GitOps-ArgoCD-learn/terraform-eks-argocd.md)**
+  - **[GitHub Repo](https://github.com/mir-owahed/infrastructure-repository)**
 
 - **Portfolio/Documentation Website with Docusaurus & GitHub Pages**  
   Built a personal website using Docusaurus and GitHub Pages, with automated deployment via GitHub Actions.
