@@ -20,12 +20,11 @@ I am passionate about upskilling in DevOps and Cloud technologies, with hands-on
 
 - **End-to-End GitLab CI Pipeline Implementation**  
   A comprehensive CI/CD pipeline implementation with GitLab, showcasing automated testing, building, and deployment.
-  - **[GitHub Repo](https://github.com/mir-owahed/DevOps-tutorial/blob/Main/gitlab-cicd-learn/GitLab-CI-project.md)**
- 
-- **GitOps ArgoCD Implementation: Automate Infrastructure Creation with Terraform & GitHub Actions, and Application Deployment on EKS Cluster**
-This guide walks through the process of automating infrastructure creation on EKS with Terraform, GitHub Actions, and deploying applications using ArgoCD.
-- **GitHub Repo:** [GitOps ArgoCD Implementation](https://github.com/mir-owahed/DevOps-tutorial/edit/Main/GitOps-ArgoCD-learn/terraform-eks-argocd.md)
+  - **[GitHub Repo](https://github.com/mir-owahed/DevOps-tutorial/blob/Main/gitlab-cicd-learn/GitLab-CI-project.md)** 
 
+- **GitOps ArgoCD Implementation: Automate Infrastructure Creation with Terraform & GitHub Actions, and Application Deployment on EKS Cluster**  
+  This guide walks through the process of automating infrastructure creation on EKS with Terraform, GitHub Actions, and deploying applications using ArgoCD.
+  - **[GitHub Repo](https://github.com/mir-owahed/DevOps-tutorial/edit/Main/GitOps-ArgoCD-learn/terraform-eks-argocd.md)**
 
 - **Portfolio/Documentation Website with Docusaurus & GitHub Pages**  
   Built a personal website using Docusaurus and GitHub Pages, with automated deployment via GitHub Actions.
