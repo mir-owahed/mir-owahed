@@ -33,8 +33,8 @@ I am passionate about upskilling in DevOps and Cloud technologies, with hands-on
 - **Secure Kubernetes Cluster on AWS EKS**  
   A secure Kubernetes cluster setup on AWS EKS, with best practices in security and cluster management.
   - **[GitHub Repo](https://github.com/mir-owahed/DevOps-tutorial/blob/Main/kubernetes-learn/eks-console.md)**
-  - 
-    [More](https://github.com/mir-owahed/projects)
+    
+    [More Projects](https://github.com/mir-owahed/projects)
 
 ---
 
