@@ -40,7 +40,7 @@ I am passionate about upskilling in DevOps and Cloud technologies, with hands-on
 
 ### 🛠 Skills
 
-- **Operating Systems:** Ubuntu, CentOS
+- **Operating Systems:** Ubuntu, Rocky Linux
 - **Containers & Orchestration:** Kubernetes, Docker, Helm, EKS, AKS
 - **CI/CD:** Jenkins, GitLab CI
 - **Continuous Deployment:** GitOps (ArgoCD)
